@@ -1,0 +1,8 @@
+kaiko_key : insert_key_here
+ticker : btc-usdt
+start : "2021-01-01"
+end : "2021-12-31"
+markets:
+  - bnf8 # Binance
+  - bfnx # Bitfinex
+  - okex # OkEx
